@@ -17,3 +17,7 @@ list = []
 print('La somma è : {}'.format(sum_list(list)))
 
 #prova
+
+# git add .
+# git commit -m "19/11"
+# git push
