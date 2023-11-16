@@ -15,3 +15,5 @@ def sum_list(list ):
 list = []
 
 print('La somma è : {}'.format(sum_list(list)))
+
+#prova
