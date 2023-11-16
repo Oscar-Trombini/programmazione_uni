@@ -44,3 +44,9 @@ def eleva(n):
   return n*n
 
 print('funge: {}'.format(eleva(4)))
+
+def prova():
+  for k in range(10):
+    print('Ciao {}'.format(k))
+
+print('prova {}'.format(prova()))
