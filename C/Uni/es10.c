@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// gcc es10.c -o main.out && ./main.out
+// gcc Uni/es10.c -o main.out && ./main.out
 
 int main(void) {
 
